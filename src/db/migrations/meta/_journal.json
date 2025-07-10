@@ -15,6 +15,13 @@
       "when": 1752005717976,
       "tag": "0001_kind_black_bolt",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752066703428,
+      "tag": "0002_bright_metal_master",
+      "breakpoints": true
     }
   ]
 }
